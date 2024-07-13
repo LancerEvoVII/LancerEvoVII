@@ -1,5 +1,8 @@
-## Hi there 👋
-
+Ух ты, вы нашли мой профиль! 🪆
+My name is Philipp and I'm a Beginner at Programming! 🐣
+I want to learn as much as I can and am very passionate about doing so. 😺
+Current Focus: Making an Android App with Kotlin, trying out some JS and learning Assembly! Also trying to help out in some other Projects on here 🐸
+Other Plans: Expanding on my (honestly very basic) Knowledge in Java and C# + using .NET to work on a Desktop App 🐍
 <!--
 **LancerEvoVII/LancerEvoVII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
