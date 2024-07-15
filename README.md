@@ -9,5 +9,5 @@ I want to learn as much as I can and am very passionate about doing so. 😺
 - Working on my Letterboxd Data Scraper in Python 🎥
 
 ## Future Plans
-- Expanding on my (honestly very basic) Knowledge in Java and C# + using .NET to work on a Desktop App 🐍
+- Expanding on my basic Knowledge in Java and C# + using .NET to work on a Desktop App 🐍
 - Working on some Homebrew Apps for older consoles like the Wii or the OG Xbox! (HMU if you are a Homebrew Developer and need some help, I'd be glad to help and learn during the process! 🏠🍺)
