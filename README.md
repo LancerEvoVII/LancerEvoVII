@@ -15,6 +15,6 @@ I am constantly trying to develop new skills and I am interested in all kinds of
 - Completing my Bachelor's Degree with an average of 1,5 or better
 - Releasing a playable and fully fleshed out build of my strategy game
 - Securing an internship in Computational Biology or Computational Chemistry
-- Persuing my master's degree at a Top 50 QS Ranked University
-- Becoming fluent at Chinese, Japanese and Korean, while improving my French and Russian
+- Persuing my Master's degree at a Top 50 QS Ranked University in Material Science, Microelectronics, Nanotechnology or Bioprocess Engineering
+- Becoming fluent in Chinese, Japanese and Korean, while improving my French and Russian
 
